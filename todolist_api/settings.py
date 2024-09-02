@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-1&-i07@r5vlh)@5z1c9nuphcevay$n=r1@!z3&z2txm%vja^^q
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['monti.pythonanywhere.com']
+ALLOWED_HOSTS = ['monti.pythonanywhere.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
